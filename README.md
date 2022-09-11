@@ -1,4 +1,2 @@
-#Coursera Test
-
-
+Coursera Test
 ## Chinmayee Prabhudesai

@@ -1,4 +1,4 @@
 #Coursera Test
 
 
-## Horizontal Rules
+## Chinmayee Prabhudesai
